@@ -1,24 +1,32 @@
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)]()
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)]()
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)]()
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+# 声明
 
+## 当你无聊到对别人公共的服务器进行恶意攻击，那你不如有时间在拼多多拼个妈（foster mother）
 
+### 如果你并没有父（other parent）母（person who gave birth），那尽情攻击吧！
 
+# 个人的话
 
+## [近期乐子事件](https://github.com/L1bws/Fuck-Thief)
 
+### 回应
+
+#### 我是一个纯粹的开源爱好者，首次接触[大佬](https://github.com/lgc2333)是在bilbil刷到了0d00的视频，并关注原作者和本地进行复刻。其次我后续依照大佬的个人主页进行复刻并对其进行捐赠（证据放在下面带时间）以及在bilbil进行充电，后面大佬github和bilbil对我进行回关，目前依旧是以互粉状态。我对开源工作者是抱着尊敬的态度（包括之前的您），并认真求学。至于你对我们所有人都抱有恶意，一直出言不逊以及对github免费服务器进行无差别攻击，当你前几次对我域名进行攻击时，我也是当过去了，并给你面子什么都没说。对于此次事件，你不了解任何信息，就对我进行0成本造谣。首先你并没有对你所谓的证据进行任何的调查，当我发出打脸证据的时候，连夜更新新的所谓的实锤证据，连我是否捐赠学习都不知，可知你的言论的可信度有多低。自以为是大明星，还要搞什么开盒，作为同学是真的懒得搭理你这种幼稚的行为，在中国的个人信息你我心知肚明，自以为是是真的可怜。
+
+### 首次造谣已归档（目前仅保留）
+
+### 二次造谣回应
+
+#### 表白墙是来自bilbil[某大佬](https://space.bilibili.com/438613160)在宝塔的一键部署，部署成功后对大佬进行了充电（个人首页并没有捐赠码）。短链项目完全是github的一键部署并没有对[大佬](https://github.com/renbaoshuo)的代码进行任何的修改，并且没有对代码的归属标记为个人所有，也没有创建我个人储存库。
+
+## 后话
+
+#### 我想问某人在对任何开源项目进行学习的时候，是否都像我一样对原作者进行了捐赠呢？依我所知，属于声明里面的这部分人都是没人管教的坏孩子，自以为是，就算你在某领域达到了一定高度，那又如何呢？
+
+#### 我愿意为我所说的话附带法律责任，如有任何侵权而感到不满，请原作者联系我进行删除。
+
+#### 乐子人所喜欢的打脸证据
+
+![01](https://github.com/yoshino-xiao7/tp/blob/main/img/bilbil-01.jpg?raw=true)
+![01](https://github.com/yoshino-xiao7/tp/blob/main/bilbil-jz.png?raw=true)
+
+# 惑乱人心，倒果为因，可笑，可悲，可怜.
