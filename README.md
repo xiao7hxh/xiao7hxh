@@ -6,7 +6,7 @@
 
 # 个人的话
 
-## [近期乐子事件](https://github.com/L1bws/Fuck-Thief)
+## [近期乐子事件](https://github.com/L1bws/Fuck-Thief)（已归档）
 
 ### 回应
 
@@ -30,3 +30,5 @@
 ![01](https://github.com/yoshino-xiao7/tp/blob/main/bilbil-jz.png?raw=true)
 
 # 惑乱人心，倒果为因，可笑，可悲，可怜.
+
+## 已不再回应乐子人事件，如果你属于声明中的人，那你就是那样的人，毋庸置疑。
